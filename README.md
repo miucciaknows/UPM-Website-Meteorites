@@ -5,4 +5,6 @@ Páginas web implementadas utilizando **html** e **css** inspirado na linha de m
 Este projeto foi apenas um objeto de estudo, no primeiro semestre da faculdade na matéria de Fundamentos de Web, Universidade Presbiteriana Mackenzie, no ano de 2017.
 
 
-#### Screenshots das páginas implementadas:
+#### Screenshots de algumas páginas implementadas:
+
+
