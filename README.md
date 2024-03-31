@@ -1,0 +1,1 @@
+Páginas web implementadas utilizando html e css inspirado na linha de maquiagem Méteorites da Guerlain no primeiro semestre da faculdade na matéria de Fundamentos de Web, Universidade Presbiteriana Mackenzie, no ano de 2017.
