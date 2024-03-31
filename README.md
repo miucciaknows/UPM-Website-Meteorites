@@ -15,7 +15,7 @@ Este projeto foi apenas um objeto de estudo, no primeiro semestre da faculdade n
 
 ### Estrutura do repositório
 
-`
+```
 .
 ├── Images # Imagem utilizadas no README.md
 │   ├── Météorites_02.png
@@ -87,4 +87,4 @@ Este projeto foi apenas um objeto de estudo, no primeiro semestre da faculdade n
 │   │   └── logo.jpg
 │   └── index_7_sitemap.html # HTML da página Site Map
 └── README.md # Readme.md deste projeto
-`
+```
