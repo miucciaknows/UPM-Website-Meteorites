@@ -1,0 +1,23 @@
+/*
+|--------------------------------------------------------------------------
+| Tips
+|--------------------------------------------------------------------------
+*/
+
+#tips h1{
+	text-align: center;
+	margin-top:40px;
+	color:#FBDAE6;
+	font-size:18px;
+}
+
+.tips-content{
+	min-height:600px;
+}
+
+
+.video-1 {
+    
+        text-align: center;
+    margin-top: 50px; 
+}

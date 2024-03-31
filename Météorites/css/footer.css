@@ -1,0 +1,54 @@
+/*
+|--------------------------------------------------------------------------
+| Footer
+|--------------------------------------------------------------------------
+*/
+
+.redes-sociais{
+	margin-top: 27px;
+	text-transform: uppercase;
+	background: #F3F1F3;
+	padding: 50px;
+	clear:both;
+}
+
+.redes-sociais .follow{
+	font-size: 26px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.redes-sociais li {
+	display:inline-block;
+	position: relative;
+	width:15%
+}
+
+.redes-sociais img{
+	position: absolute;
+	left: -10px;
+}
+
+.redes-sociais ul a{
+	padding-left: 46px;
+	line-height: 56px;
+}
+
+
+footer{
+	margin-top: 100px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-top: 1px solid silver;
+	padding-top: 20px;
+}
+
+footer li {
+	display:inline-block;
+	font-size: 16px;
+	padding: 0 10px;
+}
+
+footer a{
+	color:#afafaf;
+}
